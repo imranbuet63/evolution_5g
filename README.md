@@ -1,6 +1,6 @@
 For 'Graph and Generator Script' folder
 
-1. Make sure data folder containing the datewise files is in the  - same folder as dataProcessing.ipynb.
+1. Make sure data folder containing the datewise files is in the  - same folder as dataProcessing.ipynb. (data - https://drive.google.com/drive/u/3/folders/11KLL7awwrJSxz8IDhAx54aK9lb1X6STD)
 2. Run all the cells in order till Cell 28
 3. You can run the following functions in the filename, and graph title to generate graphs, sample outputs have been included in the notebook. Files corresponding to each experiment will be generated in your folder. Pass in the filename as the first argument and the title as the second
   1. GenerateGraph - Event Technology Graph.
