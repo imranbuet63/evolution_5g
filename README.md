@@ -13,7 +13,6 @@ For 'Graph and Generator Script' folder
   8. GeneratePCIThroughput - Scatter Plot of PCI Graph
 
 
-https://drive.google.com/drive/u/3/folders/1eLY8PAYF9U8rKvVCBcdERtCBp6INFejO
 
 For 'app data Script' folder
   1. Download the 'app_data' folder from  drive: https://drive.google.com/drive/u/3/folders/1eLY8PAYF9U8rKvVCBcdERtCBp6INFejO
