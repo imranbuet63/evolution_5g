@@ -13,10 +13,10 @@ For 'Graph and Generator Script' folder
   8. GeneratePCIThroughput - Scatter Plot of PCI Graph
 
 
-
+https://drive.google.com/drive/u/3/folders/1eLY8PAYF9U8rKvVCBcdERtCBp6INFejO
 
 For 'app data Script' folder
-  1. Download the 'app_data' folder from  drive: https://drive.google.com/drive/u/3/folders/11KLL7awwrJSxz8IDhAx54aK9lb1X6STD
+  1. Download the 'app_data' folder from  drive: https://drive.google.com/drive/u/3/folders/1eLY8PAYF9U8rKvVCBcdERtCBp6INFejO
   2. Move the 'app_data' folder into the 'app data scripts' folder.
   3. Run the 'Visualizer.ipynb' notebook to generate the plots.
   4. All plots are labeled in markdown for understanding.
@@ -24,7 +24,7 @@ For 'app data Script' folder
 
 For 'xcal data scripts' folder
 
- 1. Download the xcal data from the drive: https://drive.google.com/drive/u/3/folders/11KLL7awwrJSxz8IDhAx54aK9lb1X6STD
+ 1. Download the xcal data from the drive: https://drive.google.com/drive/u/3/folders/1eLY8PAYF9U8rKvVCBcdERtCBp6INFejO
  2.  Make sure the data folder (XCAL processed files) is in 'data' folder within the 'xcal data scripts' folder.
  3.  The 'week3.ipynb' files contain the code to generate the plots.
  4. Run till cell 5 --> to split the data files into Excel files --> 5 experiments for 'Phone 1' and 1 file 'Phone 2'.
